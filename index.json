@@ -74,6 +74,11 @@
       "size": 18697
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_roommatch_top_logo00_00/tx_uTex_fl_roommatch_top_logo00_00_0.png",
+      "hash": "dd2fd285d18f2f76485f7aed51496c23531bab4e8c169a79addd8ff018f3f106",
+      "size": 1342630
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_team_icon_winconfirm00/tx_uTex_fl_team_icon_winconfirm00_0.diff.png",
       "hash": "ad4f82d9abcc3acdba709ccad2923cfc9ca0b47cdee58f157a343105852dd7d2",
       "size": 14561
@@ -1640,8 +1645,8 @@
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1028001.json",
-      "hash": "d5701a70f7a9efab2e2ec3b10e3e59948f6f7b9648f4ad5fb8953006f968bd99",
-      "size": 2003
+      "hash": "e579e94b9a69fe15342d7b8fe457fd9f0c2a5c17eb983b2e49d957683228e0bd",
+      "size": 2019
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1028002.json",
@@ -4995,7 +5000,7 @@
     },
     {
       "path": "assets/story/data/04/1019/storytimeline_041019004.json",
-      "hash": "7a8a99008db324e42e650777fa84ff011063fdbf5f3c142ff657f44efb1f6fe1",
+      "hash": "7106f5155854e1a579b200b109f401dc82f1547c05b00b92d7521593a665949f",
       "size": 15882
     },
     {
@@ -5200,8 +5205,8 @@
     },
     {
       "path": "assets/story/data/04/1025/storytimeline_041025003.json",
-      "hash": "5ea4bc0b5b4c38dbe603dc18292687e5b19c91cafa747bde9fe1fc4561f06042",
-      "size": 14429
+      "hash": "96ee1f72502875ce5dacbf2b2a5e75a08b4d222ba09f5e985862469e77eac12d",
+      "size": 14022
     },
     {
       "path": "assets/story/data/04/1025/storytimeline_041025004.json",
@@ -5370,8 +5375,8 @@
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030002.json",
-      "hash": "da1d5538e1e771a0cadc24f4d1b83a4151fd89aa0a47ae814100ec78a03c275d",
-      "size": 14912
+      "hash": "4c01fc4d966c4b147426385da94f5034be6504f61e0181c8f6c1392e6e31267b",
+      "size": 14892
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030003.json",
@@ -5395,8 +5400,8 @@
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030007.json",
-      "hash": "5d9229abf07c0f65651acff82f4b6bf0d6917280a91180931918f87cbd113b82",
-      "size": 11985
+      "hash": "df32e8644f3a319961417f371596da06b17f595b8fdc8c8a97742b5b901a9b81",
+      "size": 11965
     },
     {
       "path": "assets/story/data/04/1031/storytimeline_041031001.json",
@@ -6005,7 +6010,7 @@
     },
     {
       "path": "assets/story/data/04/1050/storytimeline_041050003.json",
-      "hash": "1d9d06a52e98b78ffac6d9273c86a762899241d1470bac2d09b97afdd40bf820",
+      "hash": "0be1e71bc8728df72167bc31f6fb3cec1400ae5030f99d1c03674b7390e2e5e4",
       "size": 12539
     },
     {
@@ -10435,8 +10440,8 @@
     },
     {
       "path": "assets/story/data/50/1001/storytimeline_501001515.json",
-      "hash": "e5d49d6a02f9c00a4986ad8e514fc4a22a2f28fe0b0189198ba81294f93d4011",
-      "size": 7903
+      "hash": "a0a01812c47afb2af7eb3e0989e38711108f9de2168901eab2623b8d21390c72",
+      "size": 7795
     },
     {
       "path": "assets/story/data/50/1001/storytimeline_501001516.json",
@@ -36355,8 +36360,8 @@
     },
     {
       "path": "assets/story/data/50/1040/storytimeline_501040510.json",
-      "hash": "6b9b458d26dca12fa7afd3c36bbee39d1d90249c7b068492a8af0b4e8099102d",
-      "size": 10836
+      "hash": "8e712334eaeff677e85f1feaddc9dafccf1f88e4cd904f2f59aecb369333373f",
+      "size": 10842
     },
     {
       "path": "assets/story/data/50/1040/storytimeline_501040511.json",
@@ -36370,7 +36375,7 @@
     },
     {
       "path": "assets/story/data/50/1040/storytimeline_501040514.json",
-      "hash": "e8526c48a22b59ed734b1b2afd791bb3c6c93b9c47300636284bf075a4ad7091",
+      "hash": "4a1b83537fdb6b7dc38520f5e5088f8617bbfe07c0a512a513c6326ed923c5e1",
       "size": 8373
     },
     {
@@ -61442,6 +61447,16 @@
       "path": "assets/textures/outgame/banner/img_bnr_home_900002.png",
       "hash": "3a0753df1d2599b0369ff1def78a46dd49768187adbe8221688344351653b76f",
       "size": 209855
+    },
+    {
+      "path": "assets/textures/race/daily/tex_race_daily_00.png",
+      "hash": "64bbe36bb68d28b92f0afefe094b3e946db6be7df002db1c7825fb1048f14087",
+      "size": 811063
+    },
+    {
+      "path": "assets/textures/race/practicerace/tex_race_practicerace_00.png",
+      "hash": "15a83b1fea02f014fdac616cb9a50619b7153c23dc11c73efce49c133ff94ca4",
+      "size": 808436
     },
     {
       "path": "assets/textures/storyevent/logo/1001/tex_storyevent_logo_1001.png",
