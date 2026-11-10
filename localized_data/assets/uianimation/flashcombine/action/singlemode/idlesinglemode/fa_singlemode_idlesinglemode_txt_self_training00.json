@@ -1,0 +1,111 @@
+{
+  "windows": {
+    "bundle_name": "BT2XJFQ7PWYPWYJXMUVIBZ64KXBZHDUR"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "1": {
+          "_name_": "self_training_text00",
+          "plane_param_list": {
+            "0": {
+              "position_offset": {
+                "x": -27.06,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "1": {
+              "scale": {
+                "x": 1.201,
+                "y": 1,
+                "z": 1
+              },
+              "anim_pos_offset_adj": {
+                "x": -10.56,
+                "y": 0
+              }
+            },
+            "2": {
+              "scale": {
+                "x": 1.218,
+                "y": 1,
+                "z": 1
+              },
+              "position_offset": {
+                "x": 18.88,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "3": {
+              "scale": {
+                "x": 1.231,
+                "y": 1,
+                "z": 1
+              },
+              "position_offset": {
+                "x": 44.65,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "4": {
+              "position_offset": {
+                "x": 77.04,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "5": {
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+              }
+            },
+            "6": {
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+              }
+            },
+            "7": {
+              "scale": {
+                "x": 1.168,
+                "y": 1,
+                "z": 1
+              },
+              "position_offset": {
+                "x": 24.73,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "8": {
+              "anim_pos_offset_adj": {
+                "x": 36.94,
+                "y": 0
+              }
+            },
+            "9": {
+              "position_offset": {
+                "x": 34.49,
+                "y": 0.5,
+                "z": 0
+              }
+            },
+            "10": {
+              "position_offset": {
+                "x": 31.24,
+                "y": 0.5,
+                "z": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
